@@ -1,0 +1,2 @@
+class Clipping < ApplicationRecord
+end
